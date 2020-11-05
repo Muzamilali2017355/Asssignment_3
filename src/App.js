@@ -11,6 +11,7 @@ function App() {
           <h1>Muzamil Ali</h1>
           <h2>Assignment 3</h2>
           <h3>CI and CD of react app on Github and heruko</h3>
+          <h4>CI will pull and merge by itself through workflows</h4>
         </p>
         <a
           className="App-link"
