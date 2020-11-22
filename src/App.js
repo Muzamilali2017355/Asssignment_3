@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Muzamil Assignment 2
+            Muzamil Devops Assignment 2 
             <h3>CI and CD of react app on github</h3>
         </p>
         <a
